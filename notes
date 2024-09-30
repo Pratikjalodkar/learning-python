@@ -1,0 +1,33 @@
+Day-17
+constructor- make constructor with __init__ function
+class UserClass:
+    def __init__(self,a,b):
+        self.a = a
+        self.b=b
+        self.c=0  //default value
+
+class keyword used to make class , used pascal case  ForYou
+user = UserClass()
+
+
+
+def fun():
+    pass //we dont need to write some code no error occur
+
+
+
+day-18
+turtle module
+
+import turtle as t
+
+tur=t.Turtle()
+
+tur.forward(50) and all functions
+ make turtle project
+
+day-20
+snake game
+
+
+
